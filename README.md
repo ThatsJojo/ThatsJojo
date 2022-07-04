@@ -42,6 +42,7 @@
 
 ###
 
+#
 <h2 align="left">Technologies I use, sorted by affinity:</h2>
 
 
@@ -68,7 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="42" alt="wordpress logo"  />
 </div>
-
+#
 
 #
 <h2 align="left">Find me:</h2>
