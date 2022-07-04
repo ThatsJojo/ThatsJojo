@@ -91,7 +91,7 @@
 </div>
 
 #
-<h2 align="left">Stats:</h2>
+<h2 align="left">Streak tracking:</h2>
 #
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thatsjojo&" alt="thatsjojo" /></p>
