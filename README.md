@@ -90,10 +90,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/ThatsJojo/ThatsJojo/blob/output/snake.svg" alt="Snake animation" />
-
-###
