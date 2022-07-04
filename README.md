@@ -73,7 +73,6 @@
 #
 <h2 align="left">Find me:</h2>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/csa-cleyton/" target="_blank">
