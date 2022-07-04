@@ -90,7 +90,7 @@
   </a>
 </div>
 
-#
+
 <h2 align="left">Streak tracking:</h2>
 
 
