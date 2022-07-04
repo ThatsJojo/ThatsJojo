@@ -9,6 +9,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&username=ThatsJojo" height="150" alt="languages graph"  />
 </div>
 
+
+###
+
+- 🔭 I’m currently working on [the platform Saúde Vianet](https://saudevianet.com.br/)
+
+- 🌱 I’m currently learning **the core stacks of Web Development!**
+
+- 💬 Ask me about **data structures, algorithms and computer architecture**
+
+- 📫 How to reach me **cleyton.eu@gmail.com**
+
+
+###
+
+
 ###
 
 <h4 align="left">Who am I?</h4>
