@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cleyton Silva!</h1>
-<hr>
-<h3 align="center">A passionate fullstack developer from Jaguaquara - Bahia.</h3>
 
+<h3 align="center">A passionate fullstack developer from Jaguaquara - Bahia.</h3>
+<hr>
 ###
 
 <div align="center">
