@@ -88,6 +88,9 @@
   <a href="https://www.hackerrank.com/csa_cleyton" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
+  <a href="https://cssbattle.dev/player/csa_cleyton" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=cssbattle&logo=css&label=&color=fa7a18&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
 </div>
 
 
